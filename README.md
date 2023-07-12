@@ -32,6 +32,7 @@ You need to find Mars Rover Photos queries:
 - Pass the id of the second photo to the environment variable by parsing the JSON. 
 
 [Link to the collection in Postman](https://www.postman.com/gold-spaceship-323342/workspace/api-testing/collection/26944854-e55976f0-f9a4-43a5-a0c1-5ae6b68a2aa7?action=share&creator=26944854)
+
 [Link to the environment](https://www.postman.com/gold-spaceship-323342/workspace/api-testing/environment/26944854-3d934140-5e05-43f0-bdb3-faa5ccd9f27a)
 
 # Testing SOAP API
