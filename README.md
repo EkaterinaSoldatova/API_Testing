@@ -21,7 +21,7 @@ Task 2
 
 Write test cases for testing collection queries for 4 methods from the store block.
 
-[Solution.]()
+[Solution.](https://github.com/EkaterinaSoldatova/API_Testing/blob/main/Testcases_API%20Testing.pdf)
 
 # API NASA
 
